@@ -5,7 +5,7 @@
 //
 //Este es el programa básico para controlar el
 //LED Flash del ESP32CAM. El led flash parpadea
-//cada 500 ms.IRVING MARTINEZ FENRNANDEZ
+//cada 500 ms.IRVING MARTINEZ FENRNANDEZ xd
 
 
 //Definición de pines
